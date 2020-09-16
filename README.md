@@ -40,19 +40,6 @@
 
 
 
-
-![Jaskaran Singh Kohli _ Resume  7-31-2020-page-001](https://user-images.githubusercontent.com/61367363/89580415-1dc52580-d7ea-11ea-89ab-3678415eebd4.jpg)
-
-
-
-
-<object data="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf">
-        <p><a href="https://github.com/jkohli24/Analyst_Life/blob/master/Jaskaran%20Singh%20Kohli%20_%20Resume%20%207-31-2020.pdf">Download Resume</a></p>
-    </embed>
-</object>
-
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
