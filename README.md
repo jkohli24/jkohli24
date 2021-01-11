@@ -11,13 +11,14 @@
 
 𝗦𝗞𝗜𝗟𝗟𝗦:
 
-• 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠: 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐇𝐲𝐩𝐨𝐭𝐡𝐞𝐬𝐢𝐬 𝐓𝐞𝐬𝐭𝐢𝐧𝐠, 𝐃𝐚𝐭𝐚 𝐌𝐢𝐧𝐢𝐧𝐠, 𝐃𝐚𝐭𝐚 𝐖𝐫𝐚𝐧𝐠𝐥𝐢𝐧𝐠, 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬,
-𝐄𝐜𝐨𝐧𝐨𝐦𝐞𝐭𝐫𝐢𝐜𝐬, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧, 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧, 𝐄𝐧𝐬𝐞𝐦𝐛𝐥𝐞𝐬), 𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐂𝐥𝐮𝐬𝐭𝐞𝐫𝐢𝐧𝐠, 𝐏𝐂𝐀), 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
-(𝐂𝐍𝐍,𝐑𝐍𝐍), 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
+• 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠: Statistical Analysis, Hypothesis Testing, Data Mining, Data Wrangling, Feature Engineering, Marketing Analytics,
+Econometrics, Machine Learning, Supervised Learning (Regression, Classification, Ensembles), Unsupervised Learning (Clustering, PCA), Deep Learning
+(CNN,RNN), Natural Language Processing
 
-• 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬: 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐑 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐒𝐐𝐋, 𝐄𝐱𝐜𝐞𝐥, 𝐒𝐀𝐒, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐃𝐀𝐗, 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐎𝐫𝐚𝐜𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
-• 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: 𝐏𝐚𝐧𝐝𝐚𝐬, 𝐍𝐮𝐦𝐏𝐲, 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧, 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛, 𝐒𝐞𝐚𝐛𝐨𝐫𝐧, 𝐍𝐋𝐓𝐊, 𝐊𝐞𝐫𝐚𝐬, 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰, 𝐃𝐩𝐥𝐲𝐫, 𝐂𝐚𝐫𝐞𝐭, 𝐆𝐠𝐩𝐥𝐨𝐭𝟐
+• 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:  Python, R Programming, SQL, Excel, SAS, Power BI, DAX, Power Query, Tableau, Oracle Analytics
+
+• 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK, Keras, TensorFlow, Dplyr, Caret, Ggplot
 
 • 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬: [𝐓𝐚𝐛𝐥𝐞𝐚𝐮 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐁𝐚𝐝𝐠𝐞](https://www.youracclaim.com/badges/5b7cdffe-d107-4bd8-80ba-715f49d4336a), [𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐈𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧](https://skillshop.exceedlms.com/student/award/48815372), [𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬](https://skillshop.exceedlms.com/student/award/48815372), [𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐟𝐨𝐫
 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫𝐬](https://raw.githubusercontent.com/jkohli24/Analyst_Life/master/PMI%20Certificate.png), [𝐒𝐀𝐒® 𝐀𝐜𝐚𝐝𝐞𝐦𝐲 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐚𝐝𝐠𝐞𝐬](https://www.youracclaim.com/badges/438a18a8-9dd4-4217-be3c-272726f226e4?source=linked_in_profile), [𝐌𝐚𝐬𝐭𝐞𝐫 𝐒𝐐𝐋 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞](https://www.udemy.com/certificate/UC-f1635e5c-9d86-41db-9112-de445bdb919e/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com), [𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠](https://coursera.org/share/82bd7318b15601bd1c311a04810c083a)
