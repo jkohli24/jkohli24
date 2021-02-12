@@ -27,6 +27,7 @@ Econometrics, Machine Learning, Supervised Learning (Regression, Classification,
 
 ## My Projects :
 
+* [Recipe-Generation-Using-RNN](https://github.com/jkohli24/Recipe-Generation-Using-RNN-main)
 * [𝐒𝐭𝐨𝐜𝐤-𝐕𝐨𝐥𝐚𝐭𝐢𝐥𝐢𝐭𝐲-𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧-𝐮𝐬𝐢𝐧𝐠-𝐒𝐞𝐜 𝟖𝐊-𝐟𝐢𝐥𝐢𝐧𝐠𝐬](https://github.com/jkohli24/Stock-Volatility-Prediction-Using-Sec-8K-filings-main)
 * [𝐔𝐒-𝐔𝐧𝐞𝐦𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭-𝐑𝐚𝐭𝐞-𝐓𝐢𝐦𝐞-𝐒𝐞𝐫𝐢𝐞𝐬](https://github.com/vidhigandhi94/US-Unemployment-Rate-Time-Series)
 * [𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫-𝐄𝐧𝐠𝐥𝐢𝐬𝐡-𝐭𝐨-𝐅𝐫𝐞𝐧𝐜𝐡-𝐚𝐧𝐝-𝐒𝐩𝐚𝐧𝐢𝐬𝐡](https://github.com/jkohli24/Transformer-English-to-French-and-Spanish-master)
