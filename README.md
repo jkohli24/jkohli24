@@ -35,7 +35,6 @@ Econometrics, Machine Learning, Supervised Learning (Regression, Classification,
 * [𝗭𝗼𝗺𝗮𝘁𝗮-𝗗𝗮𝘁𝗮-𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀-𝗣𝘆𝘁𝗵𝗼𝗻](https://github.com/jkohli24/Zomato-Data-Analysis-Python)
 * [𝗚𝗼𝗼𝗴𝗹𝗲-𝗦𝘁𝗼𝗿𝗲-𝗦𝗮𝗹𝗲𝘀-𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀](https://github.com/jkohli24/Google-Store-Sales-Analysis-)
 * [𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 (𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴)](https://github.com/jkohli24/Marketing-Analytics-Projects)
-* [𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫-𝐄𝐧𝐠𝐥𝐢𝐬𝐡-𝐭𝐨-𝐅𝐫𝐞𝐧𝐜𝐡-𝐚𝐧𝐝-𝐒𝐩𝐚𝐧𝐢𝐬𝐡](https://github.com/jkohli24/Transformer-English-to-French-and-Spanish-master)
 * [𝗥𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗠𝗼𝗱𝗲𝗹 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗪𝗶𝘁𝗵 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀](https://github.com/jkohli24/SelfLearning---ML-Practice-A-Z-udemy-)
 * [𝗧𝗮𝗯𝗹𝗲𝗮𝘂 𝗦𝘁𝗼𝗿𝘆𝗯𝗼𝗮𝗿𝗱𝗶𝗻𝗴 (𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀)](https://github.com/jkohli24/Tableau-Selflearning-)
 * [𝗣𝘆𝘁𝗵𝗼𝗻 𝗙𝗼𝗿 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 (𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗶𝗼𝗻)](https://github.com/jkohli24/Python-for-Data-Analytics)
