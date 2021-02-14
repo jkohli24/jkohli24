@@ -29,7 +29,7 @@ Econometrics, Machine Learning, Supervised Learning (Regression, Classification,
 
 * [𝗥𝗲𝗰𝗶𝗽𝗲-𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻-𝗨𝘀𝗶𝗻𝗴-𝗥𝗡𝗡](https://github.com/jkohli24/Recipe-Generation-Using-RNN-main)
 * [𝐒𝐭𝐨𝐜𝐤-𝐕𝐨𝐥𝐚𝐭𝐢𝐥𝐢𝐭𝐲-𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧-𝐮𝐬𝐢𝐧𝐠-𝐒𝐞𝐜 𝟖𝐊-𝐟𝐢𝐥𝐢𝐧𝐠𝐬](https://github.com/jkohli24/Stock-Volatility-Prediction-Using-Sec-8K-filings-main)
-* [𝐔𝐒-𝐔𝐧𝐞𝐦𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭-𝐑𝐚𝐭𝐞-𝐓𝐢𝐦𝐞-𝐒𝐞𝐫𝐢𝐞𝐬](https://github.com/vidhigandhi94/US-Unemployment-Rate-Time-Series)
+* [𝐔𝐒-𝐔𝐧𝐞𝐦𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭-𝐑𝐚𝐭𝐞-𝐓𝐢𝐦𝐞-𝐒𝐞𝐫𝐢𝐞𝐬](https://github.com/jkohli24/US-Unemployment-Rate-Time-Series-master)
 * [𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫-𝐄𝐧𝐠𝐥𝐢𝐬𝐡-𝐭𝐨-𝐅𝐫𝐞𝐧𝐜𝐡-𝐚𝐧𝐝-𝐒𝐩𝐚𝐧𝐢𝐬𝐡](https://github.com/jkohli24/Transformer-English-to-French-and-Spanish-master)
 * [𝐂𝐚𝐮𝐬𝐚𝐥-𝐄𝐟𝐟𝐞𝐜𝐭-𝐨𝐟-𝐂𝐢𝐠𝐚𝐫𝐞𝐭𝐭𝐞𝐬-𝐨𝐧-𝐂𝐇𝐃](https://github.com/jkohli24/Causal-Effect-of-Cigarettes-on-CHD-master)
 * [𝗭𝗼𝗺𝗮𝘁𝗮-𝗗𝗮𝘁𝗮-𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀-𝗣𝘆𝘁𝗵𝗼𝗻](https://github.com/jkohli24/Zomato-Data-Analysis-Python)
